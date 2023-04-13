@@ -25,6 +25,10 @@ Run:
 flutter run
 ```
 
+**-----IMPORTANT-----:**
+
+THE TESTS MUST BE RUN ONE BY ONE AND NOT IN GROUP
+
 ## Tipti Features:
 
 - People

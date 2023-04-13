@@ -1,6 +1,7 @@
 class TextUIValues {
   TextUIValues._();
 
+  static const String tipti_test = "Tipti Test";
   static const String movies = "Movies";
   static const String play = "Play";
   static const String stop = "Stop";
