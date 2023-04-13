@@ -5,7 +5,6 @@ import 'package:tipti_test/app/constants/texts.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  // Step 3
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,
