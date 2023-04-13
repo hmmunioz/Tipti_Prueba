@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: TextUIValues.tipti_test,
+      title: TextUIValues.tiptiTest,
       theme: ThemeData(),
       debugShowCheckedModeBanner: false,
       home: const PeoplePage(),
